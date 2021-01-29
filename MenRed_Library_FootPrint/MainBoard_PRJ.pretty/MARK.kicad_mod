@@ -1,0 +1,10 @@
+(module MARK_1 (layer F.Cu) (tedit 0)
+  (attr smd)
+  (fp_text reference MARK (at -0.05725 -2.98127 -180 unlocked) (layer F.SilkS)
+    (effects (font (size 0.612271 0.644005) (thickness 0.09)))
+  )
+  (fp_text value Comment (at -5.366695 -0.46667 -180 unlocked) (layer F.SilkS) hide
+    (effects (font (size 0.612271 0.644005) (thickness 0.09)))
+  )
+  (pad 0 smd circle (at -0.00001 0.00001 90) (size 1 1) (layers F.Cu F.Paste F.Mask))
+)

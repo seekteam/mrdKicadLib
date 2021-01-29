@@ -1,0 +1,13 @@
+(module SWITCH_TOUCH-2_1 (layer F.Cu) (tedit 0)
+  (attr smd)
+  (fp_text reference SW2 (at -4.164095 -6.34677 unlocked) (layer F.SilkS)
+    (effects (font (size 0.612271 0.644005) (thickness 0.07)))
+  )
+  (fp_text value TOUCH (at -3.697425 6.93743 unlocked) (layer F.SilkS) hide
+    (effects (font (size 0.612271 0.644005) (thickness 0.07)))
+  )
+  (fp_line (start -5.15649 4.89969) (end -5.15649 -5.10032) (layer F.SilkS) (width 0.127))
+  (fp_line (start 4.84351 4.89969) (end 4.84351 -5.10032) (layer F.SilkS) (width 0.127))
+  (fp_line (start -5.15649 -5.10032) (end 4.84351 -5.10032) (layer F.SilkS) (width 0.127))
+  (pad 1 smd rect (at -0.254 -0.127 180) (size 10 10) (layers F.Cu F.Paste F.Mask))
+)
