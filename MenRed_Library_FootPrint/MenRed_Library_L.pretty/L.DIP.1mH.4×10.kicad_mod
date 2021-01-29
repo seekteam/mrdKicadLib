@@ -1,4 +1,4 @@
-(module L.DIP.1mH.4×10 (layer F.Cu) (tedit 5FBCB7BE)
+(module L.DIP.1mH.4×10 (layer F.Cu) (tedit 5FF2B497)
   (tags "LGA(Φ4×10)1mH±10%(LGA0410-102K)")
   (fp_text reference REF** (at -0.0508 3.7512) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -13,6 +13,6 @@
   (model ${D}/cp_5d2_11d5_60.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 -180))
   )
 )

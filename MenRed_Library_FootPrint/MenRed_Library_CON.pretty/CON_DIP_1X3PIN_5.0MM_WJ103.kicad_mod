@@ -1,6 +1,6 @@
-(module CON_DIP_1X3PIN_5.0MM_WJ103 (layer F.Cu) (tedit 5FC4A2F7)
+(module CON_DIP_1X3PIN_5.0MM_WJ103 (layer F.Cu) (tedit 5FDD5291)
   (attr smd)
-  (fp_text reference J (at -2.2225 -7.239 unlocked) (layer F.SilkS) hide
+  (fp_text reference J (at -2.2225 -7.239 unlocked) (layer F.SilkS)
     (effects (font (size 1.332992 1.40208) (thickness 0.254)))
   )
   (fp_text value WJ103-5.0 (at -0.5715 8.89 unlocked) (layer F.SilkS) hide
